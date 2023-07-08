@@ -5,3 +5,6 @@ Github showcase
 
 
 Data Collection (https://github.com/anusha200712/spacex-project-by-anu/blob/main/Collecting%20the%20data.ipynb)
+
+Web Scraping (
+Data Wrangling (https://github.com/anusha200712/spacex-project-by-anu/blob/main/labs-jupyter-spacex-data_wrangling_jupyterlite.jupyterlite.ipynb)
