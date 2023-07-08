@@ -8,3 +8,4 @@ Data Collection (https://github.com/anusha200712/spacex-project-by-anu/blob/main
 
 Web Scraping (https://github.com/anusha200712/spacex-project-by-anu/blob/main/jupyter-labs-webscraping.ipynb)
 Data Wrangling (https://github.com/anusha200712/spacex-project-by-anu/blob/main/labs-jupyter-spacex-data_wrangling_jupyterlite.jupyterlite.ipynb)
+Launch Sites Locations Analysis with Folium
