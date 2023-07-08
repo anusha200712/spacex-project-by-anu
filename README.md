@@ -4,8 +4,3 @@ Github showcase
 ![image](https://github.com/anusha200712/spacex-project-by-anu/assets/124539819/91f0e57c-1f62-4345-b095-7c50db58ff90)
 
 
-Data Collection (https://github.com/anusha200712/spacex-project-by-anu/blob/main/Collecting%20the%20data.ipynb)
-
-Web Scraping (https://github.com/anusha200712/spacex-project-by-anu/blob/main/jupyter-labs-webscraping.ipynb)
-Data Wrangling (https://github.com/anusha200712/spacex-project-by-anu/blob/main/labs-jupyter-spacex-data_wrangling_jupyterlite.jupyterlite.ipynb)
-Launch Sites Locations Analysis with Folium
